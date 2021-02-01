@@ -18,6 +18,11 @@ body {
 }
 
 
+
 .my-image {
     border-radius: 30px;
+}
+
+.Github {
+    border-radius: 15px;
 }

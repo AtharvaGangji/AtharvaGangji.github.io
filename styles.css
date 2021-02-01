@@ -21,6 +21,7 @@ body {
 
 .my-image {
     border-radius: 30px;
+    text-decoration: none;
 }
 
 .Github {
